@@ -9,8 +9,27 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>保持谦诚，保持敬畏</description>
-    <pubDate>Sun, 28 Nov 2021 02:42:01 GMT</pubDate>
+    <pubDate>Mon, 06 Dec 2021 11:49:38 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>第一篇博客</title>
+      <link>http://example.com/2021/12/06/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <guid>http://example.com/2021/12/06/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <pubDate>Mon, 06 Dec 2021 11:18:49 GMT</pubDate>
+      
+      <description>测试</description>
+      
+      
+      
+      <content:encoded><![CDATA[        <h2 id="关于为什么要搭建博客"   >          <a href="#关于为什么要搭建博客" class="heading-link"><i class="fas fa-link"></i></a><a href="#关于为什么要搭建博客" class="headerlink" title="关于为什么要搭建博客"></a>关于为什么要搭建博客</h2>      <p>&emsp;&emsp;我是从来不吝啬表达自己的人，我非常乐意以任何方式和别人交流。所以想找个能毫无顾忌地表达自己的地方。文字以其特有的逻辑性和多样化的优美引起了我的注意。我通过文字记载自己最早可以追溯到初中时的札记本，上面很好的记载了我整个中学阶段的思想动态。还在高二时弄过自己的散文集，记载了一些让我印象深刻的事和物。很可惜，以上两个本子都在高考后的大整理后遗失了。</p><p>&emsp;&emsp;虽然纸笔比电子数据更能流传得久远，但在我拥有真正意义上的私密空间之前太容易遗失他们了。出于分摊风险和接纳新事物的考虑，虚拟空间是我必然的选择。我也想过运用公众号、知乎等平台记载自己。可放且从某种意义上这是被平台剥削不说，在这些地方我并不是自由的。我在没有备份的情况下写了一篇对台海的看法，结果转眼就被腾讯删了——心血直接付诸东流。所以，我并不信任这些平台。我承认，这些问题并不是通过博客就可以解决的。我若是日后发表了一些天怒人怨的言论仍然有可能被精确打击。但姑且先抱着一份侥幸的心理做下去吧。</p><p>&emsp;&emsp;当然，这些都是表面上的内因。无意中加入某程序员群发现有天龙人高中生及同龄人已经在这方面走了很远了让我感觉我也应该做一做等鸡毛蒜皮的外因就不值一提了。</p>        <h2 id="关于搭建博客"   >          <a href="#关于搭建博客" class="heading-link"><i class="fas fa-link"></i></a><a href="#关于搭建博客" class="headerlink" title="关于搭建博客"></a>关于搭建博客</h2>      <p>&emsp;&emsp;互联网发展这么多年，已经有无数前人为后人铺好了道路，我也不过是沿着前人的路一步一步走过来罢了。模板用的网上模板，图片找的网络图片（当然，作者没授权）。到处都是搭建教程，到处都有交流心得，所以有手有电脑有耐心就行。</p><p>&emsp;&emsp;事实上，现在我的博客不过是个半成品，预计真正能拿得出手要等到半年之后。但我激动的心情已经迫不及待地想发第一篇博客了，这就是这一篇的由来。</p>        <h2 id="关于博客日后"   >          <a href="#关于博客日后" class="heading-link"><i class="fas fa-link"></i></a><a href="#关于博客日后" class="headerlink" title="关于博客日后"></a>关于博客日后</h2>      <p>&emsp;&emsp;没意外的话我会一直弄下去。不管怎么说以后跟别人吹逼这也是一个相当强的资本。至于会不会有人来看真不在我考虑范围内。一则我不觉得有哪些闲人真会一直追着看一个傻卵二刺螈的逼逼赖赖；二则或许来看的人少一点才好。总之我不会有意识的去推我的博客，倘若某人真的一直追着我的博客看，那也算是难得的缘分吧。</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2021/12/06/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hello World</title>
